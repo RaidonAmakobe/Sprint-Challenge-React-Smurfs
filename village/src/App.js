@@ -27,8 +27,8 @@ class App extends Component {
       <BrowserRouter>
         <div className="App">
         <nav>
-          <NavLink to = "/">LehSmurf</NavLink>
-          <NavLink to = "/form">newSmurf</NavLink>
+          <NavLink to = "/">Home</NavLink>
+          <NavLink to = "/form">New</NavLink>
         </nav>
 
         <Route
